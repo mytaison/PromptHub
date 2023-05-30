@@ -1,3 +1,6 @@
+PromptHub - Sharing AI powered prompts with people
+Built with Latest Next.JS v13 [with app routing]
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
